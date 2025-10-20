@@ -1,7 +1,7 @@
 🕵️ Network Traffic Investigation using Wireshark
 📘 Overview
 
-This project documents a network investigation performed in a TryHackMe virtual environment. The task was to analyze suspicious outbound connections triggered after a user opened a phishing email attachment.
+This project documents a network investigation performed in a virtual environment. The task was to analyze suspicious outbound connections triggered after a user opened a phishing email attachment.
 
 🧰 Tools Used
 
